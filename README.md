@@ -14,7 +14,12 @@ Shipping honestly. Real constraints, real tradeoffs, documented openly. I'd rath
 Things I've built
 
 🔍 InsightPM — Self-hosted product analytics with AI-generated user behavior narratives
-Click any user → an LLM writes their story. Click any insight → it investigates where, when, why, and what to do. Runs on your own Firebase / BigQuery data. The AI never produces numbers — deterministic SQL is the source of truth, the model only narrates. FastAPI · React · BigQuery · Claude / Gemini · 117 tests.
+
+Click any user → an LLM writes their story.
+
+Click any insight → it investigates where, when, why, and what to do.
+
+Runs on your own Firebase / BigQuery data. The AI never produces numbers — deterministic SQL is the source of truth, the model only narrates. FastAPI · React · BigQuery · Claude / Gemini · 117 tests.
 
 
 🎮 AI Game Data Visualizer — Player movement & combat analytics for level designers
@@ -30,7 +35,8 @@ I come from a product background and I'm most useful at the seam between users, 
 Let's talk
 
 💼 Open to Product Manager roles
-📫 Reach me on LinkedIn
+📫 Reach me on www.linkedin.com/in/ravikiranpollai
+
 🛠️ Every repo here has a full README, architecture notes, and honest tradeoffs — dig in
 
 
