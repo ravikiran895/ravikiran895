@@ -12,10 +12,15 @@ Shipping honestly. Real constraints, real tradeoffs, documented openly. I'd rath
 
 
 Things I've built
+
 🔍 InsightPM — Self-hosted product analytics with AI-generated user behavior narratives
 Click any user → an LLM writes their story. Click any insight → it investigates where, when, why, and what to do. Runs on your own Firebase / BigQuery data. The AI never produces numbers — deterministic SQL is the source of truth, the model only narrates. FastAPI · React · BigQuery · Claude / Gemini · 117 tests.
+
+
 🎮 AI Game Data Visualizer — Player movement & combat analytics for level designers
 Built for LILA Games. Lets level designers see how players actually move, fight, and die across maps — instead of reading raw parquet files. Turns spatial telemetry into something a non-technical designer can act on.
+
+
 📈 Digital Economy Simulator — Modeling reward loops, sinks & marketplace health
 Many live-service products struggle with inflation, progression fatigue, and weak ownership incentives. This explores how reward loops, currency sinks, and marketplace systems affect long-term engagement.
 
