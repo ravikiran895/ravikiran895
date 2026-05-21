@@ -27,3 +27,6 @@ Let's talk
 💼 Open to Product Manager roles
 📫 Reach me on LinkedIn
 🛠️ Every repo here has a full README, architecture notes, and honest tradeoffs — dig in
+
+
+<sub>Most of these tools were built as a solo PM proving an idea end-to-end. The code is real, the tradeoffs are documented, and nothing here pretends to be more finished than it is.</sub>
