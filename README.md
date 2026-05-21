@@ -29,7 +29,8 @@ Built for LILA Games. Lets level designers see how players actually move, fight,
 📈 Digital Economy Simulator — Modeling reward loops, sinks & marketplace health
 Many live-service products struggle with inflation, progression fatigue, and weak ownership incentives. This explores how reward loops, currency sinks, and marketplace systems affect long-term engagement.
 
-How I work
+## How I work
+
 I come from a product background and I'm most useful at the seam between users, data, and engineering — translating fuzzy product questions into something measurable, then into something shippable. When a tool I need doesn't exist, I build a version of it to learn whether the idea has legs before asking a team to invest.
 
 Let's talk
